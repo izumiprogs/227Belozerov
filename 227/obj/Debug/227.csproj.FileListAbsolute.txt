@@ -1,0 +1,5 @@
+C:\Users\prog\source\repos\227\227\obj\Debug\227.csproj.AssemblyReference.cache
+C:\Users\prog\source\repos\227\227\obj\Debug\MainWindow.g.cs
+C:\Users\prog\source\repos\227\227\obj\Debug\App.g.cs
+C:\Users\prog\source\repos\227\227\obj\Debug\227_MarkupCompile.cache
+C:\Users\prog\source\repos\227\227\obj\Debug\227_MarkupCompile.lref
